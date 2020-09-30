@@ -1,0 +1,28 @@
+.list{
+    background-color: #FFF995;
+    padding-top: 5%;
+    padding-left: 35%;
+    padding-bottom: 10px;
+}
+.item{
+    width: 46%;
+    height: 100px ;
+    background-color: white;
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+div p button{
+    border-style: none;
+    background-color: aquamarine;
+    height:30px;
+    width: 30px;
+    border-radius: 50%;
+}

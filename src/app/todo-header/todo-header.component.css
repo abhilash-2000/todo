@@ -1,0 +1,16 @@
+h1 {
+  margin: 0;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color:whitesmoke
+}
+.header {
+  background-image: linear-gradient(to bottom right,#9600ff, #aebaf8);
+  height: 100px;
+  margin: 0 auto;
+  padding-top: 1.6%;
+}
+body {
+  margin: 0;
+}
